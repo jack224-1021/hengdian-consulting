@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jack224-1021.github.io/hengdian-consulting/sitemap.xml

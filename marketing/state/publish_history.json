@@ -1,0 +1,34 @@
+[
+  {
+    "timestamp": "2026-11-25T09:13:24",
+    "topic_id": "W01_outflow_2ha",
+    "mode": "dry_run",
+    "card_url": "https://jack224-1021.github.io/hengdian-consulting/marketing/cards/W01_outflow_2ha.png",
+    "results": [
+      {
+        "platform": "facebook",
+        "status": "dry_run",
+        "post_id": null,
+        "detail": "[預覽模式] 準備發送圖片貼文至 FB 粉專 (尚未設定 FB_PAGE_ID)，圖片網址：https://jack224-1021.github.io/hengdian-consulting/marketing/cards/W01_outflow_2ha.png"
+      },
+      {
+        "platform": "instagram",
+        "status": "dry_run",
+        "post_id": null,
+        "detail": "[預覽模式] 準備建立 IG 圖片貼文 (尚未設定 IG_USER_ID)，圖片網址：https://jack224-1021.github.io/hengdian-consulting/marketing/cards/W01_outflow_2ha.png"
+      },
+      {
+        "platform": "threads",
+        "status": "dry_run",
+        "post_id": null,
+        "detail": "[預覽模式] 準備發送 Threads 圖文貼文 (尚未設定 THREADS_USER_ID)，圖片網址：https://jack224-1021.github.io/hengdian-consulting/marketing/cards/W01_outflow_2ha.png"
+      },
+      {
+        "platform": "google_business",
+        "status": "manual_ready",
+        "post_id": null,
+        "detail": "Google 商家動態文案已輸出至 google_business.txt 與 preview.html，可一鍵複製貼上。"
+      }
+    ]
+  }
+]

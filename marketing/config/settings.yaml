@@ -1,0 +1,40 @@
+brand:
+  company_name: "恒典管理顧問有限公司"
+  english_name: "HENG DIAN MANAGEMENT CONSULTING"
+  tax_id: "60320811"
+  phone: "0908-572-881"
+  line_id: "@144hombm"
+  email: "vanns123@gmail.com"
+  website_url: "https://jack224-1021.github.io/hengdian-consulting/"
+  service_area: "高屏南就近現勘・全臺暨離島支援"
+
+schedule:
+  frequency: "weekly"
+  day_of_week: "Wednesday"
+  publish_time_tw: "09:00"
+  platforms:
+    - facebook
+    - instagram
+    - threads
+    - google_business
+
+visual_card:
+  width: 1080
+  height: 1350
+  bg_cream: "#FAF8F4"
+  panel_white: "#FFFFFF"
+  primary_green: "#1B3B36"
+  accent_gold: "#A67C52"
+  text_dark: "#1F2933"
+  text_muted: "#52606D"
+  border_sand: "#D8D0C3"
+  serif_font: "C:/Windows/Fonts/NotoSerifTC-VF.ttf"
+  sans_font: "C:/Windows/Fonts/NotoSansTC-VF.ttf"
+
+hosting:
+  public_cards_base_url: "https://jack224-1021.github.io/hengdian-consulting/marketing/cards"
+  auto_git_push_cards: true
+
+meta_api:
+  graph_version: "v21.0"
+  threads_base_url: "https://graph.threads.net/v1.0"
